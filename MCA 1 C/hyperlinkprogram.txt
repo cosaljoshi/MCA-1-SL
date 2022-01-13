@@ -1,0 +1,16 @@
+<html>
+
+<head>
+    <link rel=stylesheet href=”f1.css”>
+</head>
+
+<body>
+    <h1>NAME-DATA</h1>
+    <ol>
+        <li><a href=”f3.html” target=”frm3?>kaushal</a>
+            <li><a href=”f4.html” target=”frm3?>anurag</a>
+                <li><a href=”f5.html” target=”frm3?>Simran</a>
+    </ol>
+</body>
+
+</html>

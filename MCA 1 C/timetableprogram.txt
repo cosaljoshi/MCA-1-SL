@@ -1,0 +1,75 @@
+<!doctype html>
+<head>
+<title> time table</title>
+</head>
+<body>
+<table border='1'>
+<caption>time table MCA(1<sup>st</sup>sem)</caption>
+</tr>
+<th>days</th>
+<th>9:00-9:55</th>
+<th>9:55-10:55</th>
+<th>11:10-12:05</th>
+<th>12:05-1:00</th>
+<th>1:00-1:55</th>
+<th>1:55-2:50</th>
+<th>3:10-4:05</th>
+<th>4:05-5:00</th>
+</tr>
+<tR>
+<td>MON</td>
+<td colspan='2'>CO lab (lab6)</td>
+<td colspan='2'>OS lab (lab6)</td>
+<td> BREAK</td>
+<td>TMC 103</td>
+<td>TMC 1O5</td>
+</TR>
+<TR>
+<td>TUE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>TMC 104</td>
+<td>TMC 101</td>
+<td>TMC 105</td>
+<td>TMC 102</td>
+</TR>
+<TR>
+<td>WED</td>
+<td COLSPAN='2'></td>
+<td COLSPAN='2' BGCOLOR='YELLOW'> Rlab(lab4)10:50 A.M.to 12:40 P.M.</td>
+<td>TMC 107(Ms. Anshu)</td>
+<td>tmc 102</td>
+<td>TMC 106</td>
+<td>TMC 106</td>
+</TR>
+<TR>
+<td>THURS</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>TMC 103</td>
+<td>TMC 107 (Ms. Neelam)</td>
+<td>TMC 104</td>
+<td>TMC 102</td>
+</TR>
+<TR>
+<td COLSPAN='3'></td>
+<td></td>
+<td>TMC 104</td>
+<td>TMC 103</td>
+<td>TMC 101</td>
+<td>TMC 107(Ms. Anshu)</td>
+</TR>
+<TR>
+<td>SAT</td>
+<td COLSPAN='2' BGCOLOR='YELLOW'>Scripting Language(lab 4)9:10-10:40a.m.</td>
+<td COLSPAN='2' BGCOLOR='YELLOW'>C Lab(lab 4)10:50-12:40p.m</td>
+<td>TMC 101</td><TD>TMC 106</TD>
+<td>TMC 101</td><TD>TMC 106</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
